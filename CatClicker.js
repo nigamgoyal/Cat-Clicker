@@ -5,7 +5,7 @@
            return catInfo = [
                 {
                     id:0,
-                    name : 'Meow',
+                    name : 'Meow', 
                     pictureName:'img/cat.jpg',
                     clickCount:0
                 },
